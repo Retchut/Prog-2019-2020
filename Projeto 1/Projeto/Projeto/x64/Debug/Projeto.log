@@ -1,0 +1,4 @@
+﻿  Projeto.cpp
+C:\Users\Retch\Desktop\uni\Feup 2\Prog\Projeto 1\Projeto\Projeto\Projeto.cpp(341,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Retch\Desktop\uni\Feup 2\Prog\Projeto 1\Projeto\Projeto\Projeto.cpp(548,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Projeto.vcxproj -> C:\Users\Retch\Desktop\uni\Feup 2\Prog\Projeto 1\Projeto\x64\Debug\Projeto.exe
